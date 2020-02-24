@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "hjUjj6NrPy8f0By1KZtdws",
+    "name" : "perf_mapping_ff_7",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104OG1700000000002F"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "6kOPPnebkOuibGl9yLKncn",
+    "name" : "perf_flat_file",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104OG0B0000000000HO"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "perf_flat_file",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
